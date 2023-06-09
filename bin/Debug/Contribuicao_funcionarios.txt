@@ -1,0 +1,15 @@
+Michael Scott	Gerência	100,00
+Jim Halpert	Gerência	500,00
+Pam Halpert	Vendas	600,00
+Angela	Contabilidade	400,00
+Dwight Schrute	Vendas	753,23
+Kevin	Contabilidade	150,00
+Toby	RH	600,00
+Andy Bernard	Vendas	1000,00
+Darryl	Estoque	300,00
+Roy Anderson	Estoque	60,00
+Oscar	Contabilidade	650,00
+Stanley	Vendas	400,00
+Holly	RH	700,00
+Ryan	Vendas	200,00
+Kelly	Vendas	350,00
